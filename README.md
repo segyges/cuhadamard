@@ -1,7 +1,7 @@
 ## TODO
 
 1) Make sure this builds as-is from git pull and runs on pytorch nightly
-2) Push it to pypi
+2) Set up ci/cd to push it to pypi
 3) See if we can prebuild wheels
 
 ## MAYBE
